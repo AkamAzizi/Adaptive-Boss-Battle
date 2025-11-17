@@ -1,50 +1,75 @@
-# Welcome to your Expo app 👋
+Adaptive Boss Battle – AI-Driven Learning Game
+Built with React Native and Expo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Adaptive Boss Battle is a mobile learning experience built with React Native and Expo.
+The application generates dynamic, difficulty-adjusting questions and evaluates the learner based on mastery, speed, confidence, and accuracy.
+The project is designed to demonstrate interactive mobile UX, adaptive learning mechanics, and scalable TypeScript architecture.
 
-## Get started
+Features
+Adaptive Learning System
 
-1. Install dependencies
+Difficulty adjusts automatically (beginner → intermediate → advanced).
 
-   ```bash
-   npm install
-   ```
+Mastery score updates after each question.
 
-2. Start the app
+Weak-area detection guides future question generation.
 
-   ```bash
-   npx expo start
-   ```
+Streak-based progression system that increases challenge.
 
-In the output, you'll find options to open the app in a
+Gameplay and Scoring
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Confidence-based scoring with penalties for overconfidence.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Speed bonuses based on response time.
 
-## Get a fresh project
+Question timer to create time pressure.
 
-When you're ready, run:
+Detailed explanations after each question.
 
-```bash
-npm run reset-project
-```
+Session summary with performance analytics.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Mobile UI and Experience
 
-## Learn more
+Responsive React Native UI built with Expo.
 
-To learn more about developing your project with Expo, look at the following resources:
+Tailwind-style utility classes via NativeWind.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Clean layout, progress tracking, badges, and feedback states.
 
-## Join the community
+Optional AI coach commentary based on user performance.
 
-Join our community of developers creating universal apps.
+AI Integration (Optional)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+The app includes a ready integration point for LLM-powered question generation (Claude API).
+This enables:
+
+Real-time question generation,
+
+Subtopic targeting,
+
+Avoidance of repetition,
+
+Tailored question difficulty.
+
+Tech Stack
+
+Frontend
+
+React Native
+
+Expo
+
+TypeScript
+
+NativeWind (Tailwind CSS for React Native)
+
+Lucide Icons
+
+AI Layer (optional)
+
+Claude API (Anthropic)
+
+Adaptive prompt engine
+
+Getting Started
+Install dependencies
