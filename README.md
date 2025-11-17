@@ -24,10 +24,10 @@ npx expo start
 
 Open via Expo Go or any emulator.
 
-**Purpose**
+## Purpose
 This project demonstrates mobile UI/UX, adaptive learning mechanics, clean React Native architecture, and real-time game state logic.
 Designed to showcase rapid product development and interactive learning design.
 
-**License**
+##License
 
 MIT
