@@ -1,75 +1,33 @@
-Adaptive Boss Battle – AI-Driven Learning Game
-Built with React Native and Expo
+# Adaptive Boss Battle (React Native + Expo)
+An adaptive, AI-inspired mobile learning game built with React Native and Expo.  
+The game dynamically adjusts difficulty, tracks mastery, and evaluates users based on accuracy, confidence, and speed.
 
-Adaptive Boss Battle is a mobile learning experience built with React Native and Expo.
-The application generates dynamic, difficulty-adjusting questions and evaluates the learner based on mastery, speed, confidence, and accuracy.
-The project is designed to demonstrate interactive mobile UX, adaptive learning mechanics, and scalable TypeScript architecture.
+## Features
+- Adaptive difficulty (beginner → intermediate → advanced)
+- Mastery scoring with weak-area detection
+- Confidence-based answering and speed bonuses
+- Timer, streaks, and level progression
+- Full session summary with analytics
+- Clean mobile UI using Expo + NativeWind
 
-Features
-Adaptive Learning System
+## Tech Stack
+- React Native (Expo)
+- TypeScript
+- NativeWind (Tailwind-style styling)
+- Lucide Icons
+- Optional: Claude API for adaptive question generation
 
-Difficulty adjusts automatically (beginner → intermediate → advanced).
+## Getting Started
+```bash
+npm install
+npx expo start
 
-Mastery score updates after each question.
+Open via Expo Go or any emulator.
 
-Weak-area detection guides future question generation.
+**Purpose**
+This project demonstrates mobile UI/UX, adaptive learning mechanics, clean React Native architecture, and real-time game state logic.
+Designed to showcase rapid product development and interactive learning design.
 
-Streak-based progression system that increases challenge.
+**License**
 
-Gameplay and Scoring
-
-Confidence-based scoring with penalties for overconfidence.
-
-Speed bonuses based on response time.
-
-Question timer to create time pressure.
-
-Detailed explanations after each question.
-
-Session summary with performance analytics.
-
-Mobile UI and Experience
-
-Responsive React Native UI built with Expo.
-
-Tailwind-style utility classes via NativeWind.
-
-Clean layout, progress tracking, badges, and feedback states.
-
-Optional AI coach commentary based on user performance.
-
-AI Integration (Optional)
-
-The app includes a ready integration point for LLM-powered question generation (Claude API).
-This enables:
-
-Real-time question generation,
-
-Subtopic targeting,
-
-Avoidance of repetition,
-
-Tailored question difficulty.
-
-Tech Stack
-
-Frontend
-
-React Native
-
-Expo
-
-TypeScript
-
-NativeWind (Tailwind CSS for React Native)
-
-Lucide Icons
-
-AI Layer (optional)
-
-Claude API (Anthropic)
-
-Adaptive prompt engine
-
-Getting Started
-Install dependencies
+MIT
