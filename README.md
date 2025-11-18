@@ -3,14 +3,14 @@
 An adaptive, AI-inspired mobile learning game built with React Native and Expo.  
 The game dynamically adjusts difficulty, tracks mastery, and evaluates users based on accuracy, confidence, and speed.
 
+## Live Demo
+[Live Demo](https://akamazizi.github.io/Adaptive-Boss-Battle/)
+
 ## Screenshots
 
 ### Setup Screen
 
 <img src="./assets/images/setup.PNG" width="150" />
-
-## Live Demo
-[Live Demo](https://akamazizi.github.io/Adaptive-Boss-Battle/)
 
 ### Gameplay
 
