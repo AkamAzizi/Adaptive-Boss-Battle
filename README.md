@@ -12,7 +12,7 @@ The game dynamically adjusts difficulty, tracks mastery, and evaluates users bas
 ### Gameplay
 
 <img src="./assets/images/gameplay1.PNG" width="150" />
-<img src="./assets/images/gameplay2.PNG" width="150" />
+<img src="./assets/images/gameplay2.png" width="150" />
 
 ### Results
 
