@@ -2,6 +2,19 @@
 An adaptive, AI-inspired mobile learning game built with React Native and Expo.  
 The game dynamically adjusts difficulty, tracks mastery, and evaluates users based on accuracy, confidence, and speed.
 
+## Screenshots
+
+### Setup Screen
+<img src="./assets/images/IMG_6978.PNG" width="300" />
+
+### Gameplay
+<img src="./assets/images/IMG_6979.PNG" width="300" />
+<img src="./assets/images/IMG_6980.PNG" width="300" />
+
+### Results
+<img src="./assets/images/IMG_6982.PNG" width="300" />
+
+
 ## Features
 - Adaptive difficulty (beginner → intermediate → advanced)
 - Mastery scoring with weak-area detection
