@@ -9,6 +9,9 @@ The game dynamically adjusts difficulty, tracks mastery, and evaluates users bas
 
 <img src="./assets/images/setup.PNG" width="150" />
 
+## Live Demo
+[Live Demo](https://akamazizi.github.io/Adaptive-Boss-Battle/)
+
 ### Gameplay
 
 <img src="./assets/images/gameplay1.PNG" width="150" />
