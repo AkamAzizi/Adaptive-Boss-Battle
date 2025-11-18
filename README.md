@@ -5,14 +5,14 @@ The game dynamically adjusts difficulty, tracks mastery, and evaluates users bas
 ## Screenshots
 
 ### Setup Screen
-<img src="./assets/images/IMG_6978.PNG" width="300" />
+<img src="./assets/images/IMG_6978.PNG" width="150" />
 
 ### Gameplay
-<img src="./assets/images/IMG_6979.PNG" width="300" />
-<img src="./assets/images/IMG_6980.PNG" width="300" />
+<img src="./assets/images/IMG_6979.PNG" width="150" />
+<img src="./assets/images/IMG_6980.PNG" width="150" />
 
 ### Results
-<img src="./assets/images/IMG_6982.PNG" width="300" />
+<img src="./assets/images/IMG_6982.PNG" width="150" />
 
 
 ## Features
