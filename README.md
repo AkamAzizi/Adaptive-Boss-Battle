@@ -16,7 +16,7 @@ The game dynamically adjusts difficulty, tracks mastery, and evaluates users bas
 
 ### Results
 
-<img src="./assets/images/results.PNG" width="150" />
+<img src="./assets/images/results.png" width="150" />
 
 ## Features
 
